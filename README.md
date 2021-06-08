@@ -17,5 +17,6 @@ This project is an open source go-kart kit that is avaliable on the Roblox ![too
 ![Kit Image](KitImage.png)
 
 ### Links
-![Kart kit](https://www.roblox.com/library/3719396356/Yar890-Studio-Racing-Kit-ALPHA)
-![Youtube tutorial](https://www.youtube.com/watch?v=HJhDu9wpGzY)
+![Kart kit](https://www.roblox.com/library/3719396356/Yar890-Studio-Racing-Kit-ALPHA) <br/>
+![Kart kit instructions](https://devforum.roblox.com/t/yar890-studio-racing-kit-instructions/741217)
+![Youtube tutorial](https://www.youtube.com/watch?v=HJhDu9wpGzY) <br/>
