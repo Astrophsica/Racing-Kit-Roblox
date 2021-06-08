@@ -1,7 +1,7 @@
 # GoKartKit-RBLX
 
 ### How to run project
-To run this project, you will first need to download [Roblox Studio](https://www.roblox.com/create). Then you need to open this file in Roblox Studio [Go-KartKit.rbxl](Go-KartKit.rbxl)
+To run this project, you will first need to download [Roblox Studio](https://www.roblox.com/create). Then you need to open the [Go-KartKit.rbxl](Go-KartKit.rbxl) in Roblox Studio 
 
 ### What is this project?
 This project is an open source go-kart kit that is avaliable on the Roblox ![toolbox](https://www.roblox.com/library/3719396356/Yar890-Studio-Racing-Kit-ALPHA). It allows developers to create their own Go-Karting game with minimal scripting. The kit includes features such as:
