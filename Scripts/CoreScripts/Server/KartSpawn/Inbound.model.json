@@ -1,0 +1,13 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}

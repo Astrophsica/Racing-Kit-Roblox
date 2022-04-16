@@ -1,0 +1,17 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "KartAdded",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "PlayerAddedToKart",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "PlayerRemovedFromKart",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}

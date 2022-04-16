@@ -1,0 +1,25 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "AddStartingLight",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteStartingLight",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "ToggleStatus",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}

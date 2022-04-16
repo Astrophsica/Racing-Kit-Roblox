@@ -1,0 +1,25 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddBarrier",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteBarrier",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "ToggleBarrier",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}

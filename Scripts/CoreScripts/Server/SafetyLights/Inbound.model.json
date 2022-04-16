@@ -1,0 +1,25 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "AddSafetyLight",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteSafetyLight",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "UpdateLight",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}

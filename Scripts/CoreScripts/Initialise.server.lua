@@ -1,12 +1,6 @@
 --[[
- __     __        ___   ___   ___     _____ _             _ _       
- \ \   / /       / _ \ / _ \ / _ \   / ____| |           | (_)      
-  \ \_/ /_ _ _ _| (_) | (_) | | | | | (___ | |_ _   _  __| |_  ___  
-   \   / _` | '__> _ < \__, | | | |  \___ \| __| | | |/ _` | |/ _ \ 
-    | | (_| | | | (_) |  / /| |_| |  ____) | |_| |_| | (_| | | (_) |
-    |_|\__,_|_|  \___/  /_/  \___/  |_____/ \__|\__,_|\__,_|_|\___/ 
-   	
-	This script was made by the Roblox user Yar890.
+
+	This script was made by AstrophsicaDev
 	
 	Script Name: Initialise
 	Last Updated: 15/02/2021
@@ -16,10 +10,10 @@
 
 -- //Global Variables\\ --
 kitName = "Racing"
-replicatedFolder = script.Replicated
-serverFolder = script.Server
-configurationFolder = script.Parent.Configuration
-apiFolder = script.Parent.API;
+replicatedFolder = script.Parent.Replicated
+serverFolder = script.Parent.Server
+configurationFolder = script.Parent.Parent.Configuration
+apiFolder = script.Parent.Parent.API
 
 ------------------------------------------ Methods ------------------------------------------
 
@@ -53,7 +47,7 @@ function onStart()
 	-- Check is server kit folder already exist. Display warning if it does exists
 	if serverYar890StudioFolder:FindFirstChild(kitName) then
 		warn("Multiple server " .. kitName .. " kits detected. You should only have 1 " .. kitName .. " kit folder in Workspace.")
-		script.Parent.API:Destroy();
+		apiFolder:Destroy();
 		script:Destroy();
 		return; -- Should be unreachable
 	end
@@ -61,7 +55,7 @@ function onStart()
 	-- Check is replicated kit folder already exist. Display warning if it does exists
 	if replicatedYar890StudioFolder:FindFirstChild(kitName) then
 		warn("Multiple replicated " .. kitName .. " kits detected. You should only have 1 " .. kitName .. " kit folder in Workspace.")
-		script.Parent.API:Destroy();
+		apiFolder:Destroy();
 		script:Destroy();
 		return; -- Should be unreachable
 	end

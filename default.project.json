@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "$ignoreUnknownInstances": true,
+      "$className": "Workspace",
+      
+      "RacingKit": {
+        "$ignoreUnknownInstances": true,
+        "$className": "Folder",
+
+        "API": {
+          "$className": "Folder",
+          "$path": "Scripts/API"
+        },
+
+        "CoreScripts": {
+          "$className": "Folder",
+          "$path": "Scripts/CoreScripts"
+        }
+      }
+    },
+
+    "$ignoreUnknownInstances": true
+  }
+
+}

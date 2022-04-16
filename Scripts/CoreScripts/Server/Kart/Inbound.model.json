@@ -1,0 +1,17 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddKart",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "DeleteKart",
+            "ClassName": "BindableEvent"
+        },
+        {
+            "Name": "UpdateMaxSpeed",
+            "ClassName": "BindableEvent"
+        }
+    ]
+}
