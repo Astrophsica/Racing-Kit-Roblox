@@ -20,7 +20,7 @@
         {
             "Name": "ToggleBarrier",
             "ClassName": "RemoteEvent"
-        }
+        },
         {
             "Name": "Test",
             "ClassName": "RemoteEvent"
