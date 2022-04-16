@@ -6,9 +6,29 @@
     "Workspace": {
       "$ignoreUnknownInstances": true,
       "$className": "Workspace",
-      "$path": "src"
+      
+      "RacingKit": {
+        "$ignoreUnknownInstances": true,
+        "$className": "Folder",
+
+        "API": {
+          "$className": "Folder",
+          "$path": "Scripts/API"
+        },
+
+        "CoreScripts": {
+          "$className": "Folder",
+          "$path": "Scripts/CoreScripts"
+        },
+
+        "Configuration": {
+          "$className": "Configuration",
+          "$path": "Configuration"
+        }
+      }
     },
 
     "$ignoreUnknownInstances": true
   }
+
 }

@@ -1,0 +1,17 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddKart",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "DeleteKart",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "UpdateMaxSpeed",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}

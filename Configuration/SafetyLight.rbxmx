@@ -1,0 +1,48 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Configuration" referent="RBXDCB7873369EA4FB898BE70C2907A10EE">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">SafetyLight</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+		<Item class="Configuration" referent="RBXCD4B23C2B2E54026B13B6137EBC9A621">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<string name="Name">LightSpeed</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+			</Properties>
+			<Item class="IntValue" referent="RBXBA10BA95999846AEB837A060B04EE0B1">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<string name="Name">Green</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<int64 name="Value">100</int64>
+				</Properties>
+			</Item>
+			<Item class="IntValue" referent="RBX39E728B69DE8435DAB3B259788946780">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<string name="Name">Yellow</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<int64 name="Value">50</int64>
+				</Properties>
+			</Item>
+			<Item class="IntValue" referent="RBX71F141199AED4700B5CB18265F3F25D9">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<string name="Name">Red</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<int64 name="Value">0</int64>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>

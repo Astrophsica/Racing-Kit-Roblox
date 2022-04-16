@@ -14,7 +14,7 @@ This project is an open source go-kart kit that is avaliable on the Roblox [tool
 * Changing tracks
 
 ### Kit image
-![Kit Image](KitImage.png)
+![Kit Image](Images/KitImage.png)
 
 ### Links
 * [Model kit](https://www.roblox.com/library/3719396356/Yar890-Studio-Racing-Kit-ALPHA) <br/>

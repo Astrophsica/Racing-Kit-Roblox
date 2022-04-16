@@ -1,0 +1,17 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "KartAdded",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "PlayerAddedToKart",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "PlayerRemovedFromKart",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "AddSafetyLight",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "DeleteSafetyLight",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "UpdateLight",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}

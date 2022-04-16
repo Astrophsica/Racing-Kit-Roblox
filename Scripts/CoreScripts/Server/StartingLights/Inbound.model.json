@@ -1,0 +1,25 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "AddControlPanel",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "AddStartingLight",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "DeleteControlPanel",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "DeleteStartingLight",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "ToggleStatus",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}
