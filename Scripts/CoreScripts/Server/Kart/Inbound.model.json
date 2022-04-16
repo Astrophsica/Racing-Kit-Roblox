@@ -3,15 +3,15 @@
     "Children": [
         {
             "Name": "AddKart",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "DeleteKart",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "UpdateMaxSpeed",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

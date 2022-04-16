@@ -3,7 +3,7 @@
     "Children": [
         {
             "Name": "StatusToggled",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

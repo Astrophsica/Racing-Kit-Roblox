@@ -3,15 +3,15 @@
     "Children": [
         {
             "Name": "AddControlPanel",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "DeleteControlPanel",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "ToggleCollision",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

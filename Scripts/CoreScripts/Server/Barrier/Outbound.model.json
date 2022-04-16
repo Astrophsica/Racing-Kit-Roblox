@@ -3,7 +3,7 @@
     "Children": [
         {
             "Name": "BarrierToggled",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

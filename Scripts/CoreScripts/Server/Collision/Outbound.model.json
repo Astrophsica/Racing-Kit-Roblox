@@ -2,8 +2,8 @@
     "ClassName": "Folder",
     "Children": [
         {
-            "Name": "CollisonToggled",
-            "ClassName": "RemoteEvent"
+            "Name": "CollisionToggled",
+            "ClassName": "BindableEvent"
         }
     ]
 }

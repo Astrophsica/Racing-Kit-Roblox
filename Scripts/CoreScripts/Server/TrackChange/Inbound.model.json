@@ -2,15 +2,15 @@
     "ClassName": "Folder",
     "Children": [
         {
-            "Name": "KartAdded",
+            "Name": "AddControlPanel",
             "ClassName": "BindableEvent"
         },
         {
-            "Name": "PlayerAddedToKart",
+            "Name": "DeleteControlPanel",
             "ClassName": "BindableEvent"
         },
         {
-            "Name": "PlayerRemovedFromKart",
+            "Name": "ToggleTrackChange",
             "ClassName": "BindableEvent"
         }
     ]

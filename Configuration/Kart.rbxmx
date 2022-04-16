@@ -15,7 +15,7 @@
 				<string name="Name">KartModel</string>
 				<int64 name="SourceAssetId">-1</int64>
 				<BinaryString name="Tags"></BinaryString>
-				<Ref name="Value">null</Ref>
+				<Ref name="Value">RBX098AA7968DD94CE0969BE8E2C27BDB57</Ref>
 			</Properties>
 		</Item>
 		<Item class="Configuration" referent="RBX989E792369844E2798FEBC1585A860DA">

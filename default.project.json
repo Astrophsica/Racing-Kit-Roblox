@@ -19,11 +19,6 @@
         "CoreScripts": {
           "$className": "Folder",
           "$path": "Scripts/CoreScripts"
-        },
-
-        "Configuration": {
-          "$className": "Configuration",
-          "$path": "Configuration"
         }
       }
     },

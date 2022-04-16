@@ -3,7 +3,7 @@
     "Children": [
         {
             "Name": "LightChanged",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

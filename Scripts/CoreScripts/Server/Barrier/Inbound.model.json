@@ -3,23 +3,23 @@
     "Children": [
         {
             "Name": "AddBarrier",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "AddControlPanel",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "DeleteBarrier",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "DeleteControlPanel",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         },
         {
             "Name": "ToggleBarrier",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }

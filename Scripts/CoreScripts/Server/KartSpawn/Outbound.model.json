@@ -3,7 +3,7 @@
     "Children": [
         {
             "Name": "KartSpawned",
-            "ClassName": "RemoteEvent"
+            "ClassName": "BindableEvent"
         }
     ]
 }
