@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: TrackChangeControlPanel
-	Last Updated: 27/02/2021
 	Purpose: Button for change track
 --]]
 

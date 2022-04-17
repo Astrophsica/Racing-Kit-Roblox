@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: Example
-	Last Updated: 08/02/2021
 	Purpose: Example script showing how to interact with API events
 --]]
 

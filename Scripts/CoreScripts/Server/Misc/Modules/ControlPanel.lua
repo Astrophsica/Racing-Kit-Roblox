@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: ControlModule
-	Last Updated: 27/08/2020
 	Purpose: Create click detectors for the control panel button, and connecting it to a 
 	bindable event that will update the lights on the track.
 --]]

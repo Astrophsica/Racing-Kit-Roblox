@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Script Name: StartingLightController
-	Last Updated: 22/02/2021
 	Purpose: Processes events and stores all control panels and starting lights in a table
 --]]
 

@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: ControlModule
-	Last Updated: 22/02/2021
 	Purpose: Spawn karts at spawn location
 --]]
 

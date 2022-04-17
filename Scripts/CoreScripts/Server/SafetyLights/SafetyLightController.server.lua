@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Script Name: SafetyLightController
-	Last Updated: 222/02/2021
 	Purpose: Processes events and stores all control panels and racing lights in a table
 --]]
 

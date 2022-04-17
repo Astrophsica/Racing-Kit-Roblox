@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: ControlModule
-	Last Updated: 21/02/2021
 	Purpose: Deals with collision groups
 --]]
 

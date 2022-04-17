@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: TrackChangeAPI
-	Last Updated: 27/02/2021
 	Purpose: API for track change inbound and outbound
 --]]
 

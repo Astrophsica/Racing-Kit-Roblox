@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Script Name: KartController
-	Last Updated: 08/02/2021
 	Purpose: Processes events and stores all karts module info in table
 --]]
 

@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: StartingLightsAPI
-	Last Updated: 08/02/2021
 	Purpose: API for starting lights inbound and outbound
 --]]
 

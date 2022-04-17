@@ -9,7 +9,7 @@ MODIFIED VERSION FOR BUILD 6.52S2: This script has been modified so that the veh
 stops going past the vehicle seat "MaxSpeed" property. This speed is based on the
 vehicle seat velocity maginute, so will not match the "mph" shown in A Chassis UI.
 
-Modified Version by: Yar890 (Group is "Yar890 Studio")
+Modified Version by: AstrophsicaDev
 
 *I assume you know what you're doing if you're gonna change something here.* ]]--
 

@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: BarrierAPI
-	Last Updated: 08/02/2021
 	Purpose: API for barrier inbound and outbound
 --]]
 

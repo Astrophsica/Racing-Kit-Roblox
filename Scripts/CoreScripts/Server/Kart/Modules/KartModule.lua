@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: KartModule
-	Last Updated: 20/02/2021
 	Purpose: Allows karts max speed to change and delete kart
 --]]
 

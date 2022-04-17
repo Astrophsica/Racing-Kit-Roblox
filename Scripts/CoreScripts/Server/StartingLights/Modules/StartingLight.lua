@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: ControlModule
-	Last Updated: 22/02/2021
 	Purpose: To update the start lights and barrier that are on the track.
 --]]
 

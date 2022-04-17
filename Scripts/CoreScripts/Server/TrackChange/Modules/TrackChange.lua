@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: TrackChange
-	Last Updated: 27/02/2021
 	Purpose: Changes Track
 --]]
 

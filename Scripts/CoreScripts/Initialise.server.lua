@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Script Name: Initialise
-	Last Updated: 15/02/2021
 	Purpose: To set up and move essention Yar890Studio folders. Allows for better organisation
 	when game runs on server.
 --]]

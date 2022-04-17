@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Script Name: CollisionController
-	Last Updated: 20/02/2021
 	Purpose: Deals with collision groups
 --]]
 

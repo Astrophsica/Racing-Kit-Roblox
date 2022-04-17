@@ -1,15 +1,8 @@
 --[[
- __     __        ___   ___   ___     _____ _             _ _       
- \ \   / /       / _ \ / _ \ / _ \   / ____| |           | (_)      
-
-   \   / _` | '__> _ < \__, | | | |  \___ \| __| | | |/ _` | |/ _ \ 
-    | | (_| | | | (_) |  / /| |_| |  ____) | |_| |_| | (_| | | (_) |
-    |_|\__,_|_|  \___/  /_/  \___/  |_____/ \__|\__,_|\__,_|_|\___/ 
    	
 	This script was made by AstrophsicaDev
 	
 	Script Name: SpawnController
-	Last Updated: 22/02/2021
 	Purpose: Processes events and stores all control panels in a table
 --]]
 

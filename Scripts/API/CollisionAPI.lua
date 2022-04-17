@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: CollisionAPI
-	Last Updated: 20/02/2021
 	Purpose: API for collision inbound and outbound
 --]]
 

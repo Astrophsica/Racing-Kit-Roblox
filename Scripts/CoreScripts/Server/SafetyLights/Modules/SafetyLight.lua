@@ -3,7 +3,6 @@
 	This script was made by AstrophsicaDev
 	
 	Module Name: ControlModule
-	Last Updated: 22/02/2021
 	Purpose: To update the safety lights that are on the track.
 --]]
 
