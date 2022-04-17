@@ -1,6 +1,5 @@
 # GoKartKit-RBLX
 
-### Kit image
 ![Kit Image](Images/KitImage.png)
 
 ### What is this project?
