@@ -3,7 +3,7 @@
 ![Kit Image](Images/KitImage.png)
 
 ### What is this project?
-This project is an open source go-kart kit that is avaliable on the Roblox [toolbox](https://www.roblox.com/library/3719396356/Yar890-Studio-Racing-Kit-ALPHA). It allows developers to create their own Go-Karting game with minimal scripting. The kit includes features such as:
+This project is an open source go-kart kit that is avaliable on the Roblox [toolbox](https://create.roblox.com/marketplace/asset/3719396356/Racing-Kit). It allows developers to create their own Go-Karting game with minimal scripting. The kit includes features such as:
 * Button controlled barriers
 * Kart collision on/off
 * Kart with anti-cheat
